@@ -1,4 +1,3 @@
-# System packages required for Prophet
 gcc
 g++
 make
