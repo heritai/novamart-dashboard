@@ -1,40 +1,40 @@
 # NovaMart: AI-Powered Demand Forecasting & Stock Optimization Dashboard
 
-**Transforming retail inventory management with advanced AI-driven forecasting and optimization. A comprehensive consulting demo project by HerixAI.**
+Transforming retail inventory management with AI-driven forecasting and optimization. A comprehensive consulting demo project by HerixAI.
 
 ---
 
 ## 🏪 Business Context
 
-NovaMart, a mid-size online retailer of groceries and household products, grapples with a common retail dilemma: optimizing inventory. Balancing the risk of costly stockouts against expensive overstocking is a persistent challenge, impacting profitability and customer satisfaction.
+NovaMart, a mid-size online retailer specializing in groceries and household products, faces a universal retail challenge: optimizing inventory. Balancing the risk of costly stockouts against expensive overstocking is a persistent dilemma, directly impacting profitability and customer satisfaction.
 
 ### The Challenge
--   **Lost Sales**: Frequent stockouts during peak demand periods.
--   **Tied Capital**: Expensive overstocking, especially during off-seasons, leading to inefficient capital allocation.
--   **Operational Inefficiency**: Manual inventory management lacking data-driven insights.
--   **Missed Opportunities**: Inadequate accounting for complex seasonal demand patterns in planning.
+-   **Lost Sales**: Frequent stockouts, particularly during peak demand periods.
+-   **Tied Capital**: Costly overstocking, especially in off-peak seasons, leading to inefficient capital allocation.
+-   **Operational Inefficiency**: Manual inventory management, lacking data-driven insights.
+-   **Missed Opportunities**: Inadequate accounting for complex seasonal demand patterns in strategic planning.
 
 ### The Solution
-This dashboard provides a robust, data-driven solution, leveraging advanced machine learning to deliver a comprehensive demand forecasting and stock optimization system:
+This dashboard offers a robust, data-driven solution, leveraging advanced machine learning to deliver a comprehensive demand forecasting and stock optimization system:
 -   **Precise Demand Forecasting**: Powered by Prophet and ARIMA models for highly accurate predictions.
--   **Intelligent Stock Optimization**: Dynamic calculation of reorder points and safety stock.
--   **Actionable Insights**: Intuitive, interactive visualizations for business insights.
--   **Strategic Reporting**: Automated, executive-ready reports for informed decision-making.
+-   **Intelligent Stock Optimization**: Dynamic calculation of reorder points and safety stock levels.
+-   **Actionable Insights**: Intuitive, interactive visualizations providing clear business insights.
+-   **Strategic Reporting**: Automated, executive-ready reports to facilitate informed decision-making.
 
 ---
 
 ## 🚀 Dashboard Features
 
 ### 📊 Global Summary
--   **Key Performance Indicators (KPIs)**: Total sales, growth rates, top-performing products.
+-   **Key Performance Indicators (KPIs)**: Total sales, growth rates, and top-performing products.
 -   **Demand Trend Analysis**: Historical patterns, growth trajectories, and future projections.
 -   **Product Performance Overview**: Sales distribution and comparative analytics.
 -   **Seasonality Insights**: Heatmaps revealing demand patterns by month, day, and potential time-of-day.
 
 ### 🔍 Product Explorer
--   **Individual Product Deep Dive**: Granular analysis of single product performance.
--   **Performance Metrics**: Key indicators like growth rates, demand stability, and recent sales trends.
--   **Trend Analysis**: Moving averages and volatility metrics for deeper understanding.
+-   **Individual Product Deep Dive**: Granular analysis of individual product performance.
+-   **Performance Metrics**: Key indicators such as growth rates, demand stability, and recent sales trends.
+-   **Trend Analysis**: Moving averages and volatility metrics for a deeper understanding.
 
 ### 📈 Advanced Forecasting
 -   **Dual-Model Approach**: Combines Prophet (primary) and ARIMA (baseline) for robust predictions.
@@ -97,13 +97,13 @@ Get your personalized NovaMart dashboard up and running on Streamlit Cloud with 
 
 ## 🎯 Key Benefits
 
-### For Business Operations
+### **For Business Operations**
 -   **Significant Reduction in Stockouts**: Achieve a 20-25% reduction in stockout incidents.
 -   **Optimized Inventory Costs**: Realize a 10-15% reduction in inventory holding costs.
 -   **Enhanced Cash Flow**: Improve cash flow by 5-10% through strategic ordering.
 -   **Boosted Customer Satisfaction**: Drive a 15-20% improvement in product availability and fulfillment rates.
 
-### For Decision Making
+### **For Decision Making**
 -   **Empowered Decision-Making**: Move beyond intuition with robust, data-driven statistical analysis.
 -   **Proactive Strategic Planning**: Forecast demand 30-90 days into the future for forward-looking strategies.
 -   **Intelligent Risk Management**: Quantify, understand, and mitigate potential inventory risks.
@@ -113,7 +113,7 @@ Get your personalized NovaMart dashboard up and running on Streamlit Cloud with 
 
 ## ⚠️ Important Disclaimers: Demo Scope & Considerations
 
-### Data and Methodology
+### **Data and Methodology**
 -   **Synthetic Data**: All presented sales data is artificially generated, meticulously designed to emulate realistic retail patterns for demonstration purposes.
 -   **Demo Scope & Model Simplifications**: While powerful for demonstration, a full production implementation would integrate more sophisticated features, such as:
     -   Multi-product optimization with cross-correlations and dependencies.
@@ -123,7 +123,7 @@ Get your personalized NovaMart dashboard up and running on Streamlit Cloud with 
     -   Real-time demand sensing, anomaly detection, and adaptive adjustments.
     -   Full MLOps pipeline for model retraining and deployment.
 
-### Business Context
+### **Business Context**
 -   **Consulting Demonstration**: This project serves as a comprehensive demonstration of HerixAI's capabilities in advanced retail analytics.
 -   **Production Implementations**: A full-scale consulting engagement would entail:
     -   Custom model development based on specific business needs and data characteristics.
@@ -135,7 +135,7 @@ Get your personalized NovaMart dashboard up and running on Streamlit Cloud with 
 
 ## 🛠️ Developer & Contribution Guide
 
-### Quick Start
+### **Quick Start**
 
 1.  **Prerequisites**: Ensure you have Python 3.10+ installed.
 
@@ -158,12 +158,12 @@ Get your personalized NovaMart dashboard up and running on Streamlit Cloud with 
 5.  **Access the dashboard**
     Open your web browser to `http://localhost:8501`.
 
-### System Requirements
+### **System Requirements**
 -   **Python**: 3.10 or higher (recommended 3.11+)
 -   **Memory**: 4GB RAM minimum (8GB recommended for optimal performance)
 -   **Storage**: Approximately 500MB for data and dependencies
 
-### Project Structure
+### **Project Structure**
 ```
 novamart-forecasting-dashboard/
 ├── app.py                    # Main Streamlit application entry point
@@ -180,15 +180,15 @@ novamart-forecasting-dashboard/
     └── example_report.pdf   # A sample generated PDF report
 ```
 
-### Key Dependencies
--   **Streamlit**: The framework used for building the interactive web application.
+### **Key Dependencies**
+-   **Streamlit**: The framework for building the interactive web application.
 -   **Prophet**: Facebook's powerful time-series forecasting library, ideal for data with strong seasonal effects.
 -   **Statsmodels**: Comprehensive library for statistical modeling, including ARIMA and other econometric models.
 -   **Plotly**: For rich, interactive data visualizations that enhance user engagement.
 -   **Pandas/NumPy**: Essential for efficient data manipulation and numerical operations.
 -   **Matplotlib/Seaborn**: For generating high-quality static plots, particularly for PDF reports.
 
-### Customization Options
+### **Customization Options**
 -   **Forecast Horizons**: Easily adjust prediction periods from 7 to 90 days.
 -   **Service Level Targets**: Configure desired service levels from 85% to 99% for safety stock calculations.
 -   **Safety Stock Methodologies**: Choose between percentage-based or statistical calculation methods.
