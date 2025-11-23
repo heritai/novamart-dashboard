@@ -6,19 +6,19 @@ Transforming retail inventory management with AI-driven forecasting and optimiza
 
 ## 🏪 Business Context
 
-NovaMart, a mid-size online retailer specializing in groceries and household products, faces a universal retail challenge: optimizing inventory. Balancing the risk of costly stockouts against expensive overstocking is a persistent dilemma, directly impacting profitability and customer satisfaction.
+NovaMart, a mid-size online retailer specializing in groceries and household products, faces a universal retail challenge: optimizing inventory. The persistent dilemma of balancing costly stockouts against expensive overstocking directly impacts profitability and customer satisfaction.
 
 ### The Challenge
--   **Lost Sales**: Frequent stockouts, especially during peak demand periods, leading to lost sales.
--   **Tied Capital**: Costly overstocking, particularly in off-peak seasons, resulting in inefficient capital allocation and tied-up capital.
--   **Operational Inefficiency**: Manual inventory management, often lacking data-driven insights, leading to operational inefficiencies.
--   **Missed Opportunities**: Inadequate consideration of complex seasonal demand patterns in strategic planning, resulting in missed opportunities.
+-   **Lost Sales**: Frequent stockouts, particularly during peak demand, lead to missed revenue opportunities.
+-   **Tied Capital**: Excessive overstocking, especially in off-peak seasons, results in inefficient capital allocation and increased holding costs.
+-   **Operational Inefficiency**: Manual inventory management often lacks data-driven insights, leading to suboptimal operations.
+-   **Missed Opportunities**: Inadequate consideration of complex seasonal demand patterns hinders strategic planning.
 
 ### The Solution
-This dashboard offers a robust, data-driven solution, leveraging advanced machine learning to deliver a comprehensive demand forecasting and stock optimization system:
--   **Precise Demand Forecasting**: Leverages Prophet and ARIMA models for highly accurate, data-driven predictions.
--   **Intelligent Stock Optimization**: Dynamically calculates reorder points and safety stock levels to minimize risk.
--   **Actionable Insights**: Provides intuitive, interactive visualizations for clear and immediate business insights.
+This dashboard provides a robust, data-driven solution, leveraging advanced machine learning to deliver a comprehensive demand forecasting and stock optimization system:
+-   **Precise Demand Forecasting**: Utilizes Prophet and ARIMA models for highly accurate, data-driven predictions.
+-   **Intelligent Stock Optimization**: Dynamically calculates optimal reorder points and safety stock levels to minimize risk.
+-   **Actionable Insights**: Offers intuitive, interactive visualizations for clear and immediate business understanding.
 -   **Strategic Reporting**: Generates automated, executive-ready reports to facilitate informed decision-making.
 
 ---
@@ -32,7 +32,7 @@ This dashboard offers a robust, data-driven solution, leveraging advanced machin
 -   **Seasonality Insights**: Utilizes heatmaps to reveal demand patterns by month, day, and potential time-of-day.
 
 ### 🔍 Product Explorer
--   **Individual Product Deep Dive**: Offers granular analysis of individual product performance.
+-   **Individual Product Deep Dive**: Offers granular analysis of specific product performance.
 -   **Performance Metrics**: Presents key indicators like growth rates, demand stability, and recent sales trends.
 -   **Trend Analysis**: Includes moving averages and volatility metrics for a deeper understanding of product dynamics.
 
@@ -50,7 +50,7 @@ This dashboard offers a robust, data-driven solution, leveraging advanced machin
 
 ### 📊 Comprehensive Reporting
 -   **PDF Report Generation**: Creates executive summaries, complete with charts and actionable recommendations.
--   **Data Export**: Offers seamless CSV downloads for external analysis and integration with other systems.
+-   **Data Export**: Offers seamless CSV downloads for external analysis and integration.
 -   **Actionable Business Insights**: Delivers clear recommendations for continuous inventory optimization strategies.
 
 ---
@@ -104,7 +104,7 @@ Get your personalized NovaMart dashboard up and running on Streamlit Cloud with 
 -   **Boosted Customer Satisfaction**: Drive a significant 15-20% improvement in product availability and fulfillment rates.
 
 ### **For Decision Making**
--   **Empowered Decision-Making**: Move beyond intuition, leveraging robust, data-driven statistical analysis.
+-   **Empowered Decision-Making**: Move beyond intuition by leveraging robust, data-driven statistical analysis.
 -   **Proactive Strategic Planning**: Forecast demand 30-90 days into the future, enabling more forward-looking strategies.
 -   **Intelligent Risk Management**: Quantify, understand, and effectively mitigate potential inventory risks.
 -   **Continuous Performance Monitoring**: Accurately track forecast accuracy and other critical inventory metrics.
