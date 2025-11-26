@@ -1,12 +1,12 @@
 # NovaMart: AI-Powered Demand Forecasting & Stock Optimization Dashboard
 
-Transforming retail inventory management with AI-driven forecasting and optimization. A comprehensive consulting demo project by HerixAI.
+Transforming retail inventory management with AI-driven forecasting and optimization. This project serves as a comprehensive consulting demo by HerixAI.
 
 ---
 
 ## 🏪 Business Context
 
-NovaMart, a mid-size online retailer specializing in groceries and household products, faces a pervasive retail challenge: optimizing inventory. The persistent dilemma of balancing costly stockouts against expensive overstocking directly impacts profitability and customer satisfaction.
+NovaMart, a mid-size online retailer specializing in groceries and household products, faces a critical retail challenge: optimizing inventory. The persistent dilemma of balancing costly stockouts against expensive overstocking directly impacts profitability and customer satisfaction.
 
 ### The Challenge
 -   **Lost Sales**: Frequent stockouts, particularly during peak demand, lead to missed revenue opportunities.
@@ -67,7 +67,7 @@ This dashboard delivers a robust, data-driven solution, leveraging advanced mach
 
 **Launch Your Own NovaMart Instance in Minutes!**
 
-Get your personalized NovaMart dashboard up and running on Streamlit Cloud with these simple steps:
+For developers or users wanting to run a personalized instance, get your NovaMart dashboard up and running on Streamlit Cloud with these simple steps:
 
 1.  **Fork this repository** on GitHub.
 2.  Navigate to [share.streamlit.io](https://share.streamlit.io).
