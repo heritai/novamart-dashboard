@@ -16,7 +16,7 @@ NovaMart, a mid-size online retailer specializing in groceries and household pro
 
 ### The Solution
 This dashboard delivers a robust, data-driven solution, leveraging advanced machine learning to provide a comprehensive demand forecasting and stock optimization system:
--   **Precise Demand Forecasting**: Utilizes Prophet and ARIMA models for highly accurate, data-driven predictions.
+-   **Precise Demand Forecasting**: Leverages Prophet and ARIMA models for highly accurate, data-driven predictions.
 -   **Intelligent Stock Optimization**: Dynamically calculates optimal reorder points and safety stock levels to minimize risk.
 -   **Actionable Insights**: Offers intuitive, interactive visualizations for clear and immediate business understanding.
 -   **Strategic Reporting**: Generates automated, executive-ready reports to facilitate informed decision-making.
@@ -26,13 +26,13 @@ This dashboard delivers a robust, data-driven solution, leveraging advanced mach
 ## 🚀 Dashboard Features
 
 ### 📊 Global Summary
--   **Key Performance Indicators (KPIs)**: Displays total sales, growth rates, and top-performing products.
--   **Demand Trend Analysis**: Visualizes historical patterns, growth trajectories, and future projections.
--   **Product Performance Overview**: Analyzes sales distribution and comparative product performance.
--   **Seasonality Insights**: Utilizes heatmaps to reveal demand patterns by month, day, and time-of-day.
+-   **Key Performance Indicators (KPIs)**: Showcases total sales, growth rates, and top-performing products.
+-   **Demand Trend Analysis**: Visualizes historical patterns, growth trajectories, and future demand projections.
+-   **Product Performance Overview**: Analyzes sales distribution and compares product performance.
+-   **Seasonality Insights**: Utilizes heatmaps to reveal demand patterns across months, days, and times of day.
 
 ### 🔍 Product Explorer
--   **Individual Product Deep Dive**: Offers granular analysis of specific product performance.
+-   **Individual Product Deep Dive**: Offers granular analysis into specific product performance.
 -   **Performance Metrics**: Displays key indicators like growth rates, demand stability, and recent sales trends.
 -   **Trend Analysis**: Visualizes moving averages and volatility metrics for a deeper understanding of product dynamics.
 
@@ -45,13 +45,13 @@ This dashboard delivers a robust, data-driven solution, leveraging advanced mach
 ### 📦 Stock Optimization
 -   **Dynamic Reorder Points**: Intelligently calculated based on lead time and forecasted demand.
 -   **Adaptive Safety Stock**: Statistically optimized and aligned with target service levels, preventing stockouts.
--   **Economic Order Quantity (EOQ)**: Offers cost-optimized recommendations for order sizes.
+-   **Economic Order Quantity (EOQ)**: Provides cost-optimized recommendations for order sizes.
 -   **Comprehensive Inventory Metrics**: Monitors turnover rates, stockout probabilities, and coverage analysis.
 
 ### 📊 Comprehensive Reporting
--   **PDF Report Generation**: Creates executive summaries, complete with charts and actionable recommendations.
+-   **PDF Report Generation**: Generates executive summaries, complete with charts and actionable recommendations.
 -   **Data Export**: Enables seamless CSV downloads for external analysis and integration.
--   **Actionable Business Insights**: Provides clear recommendations for continuous inventory optimization strategies.
+-   **Actionable Business Insights**: Offers clear recommendations for continuous inventory optimization strategies.
 
 ---
 
@@ -65,7 +65,7 @@ This dashboard delivers a robust, data-driven solution, leveraging advanced mach
 
 ## 🚀 Quick Deployment
 
-**Launch Your Own NovaMart Instance in Minutes!**
+**Deploy Your Own NovaMart Dashboard in Minutes!**
 
 For developers or users wanting to run a personalized instance, get your NovaMart dashboard up and running on Streamlit Cloud with these simple steps:
 
@@ -114,18 +114,18 @@ For developers or users wanting to run a personalized instance, get your NovaMar
 ## ⚠️ Important Disclaimers: Demo Scope & Considerations
 
 ### **Data and Methodology**
--   **Synthetic Data**: All sales data presented is artificially generated, meticulously designed to emulate realistic retail patterns for demonstration purposes.
--   **Demo Scope & Model Simplifications**: While powerful for demonstration, a full production implementation typically integrates more sophisticated features, such as:
+-   **Synthetic Data**: All sales data presented is artificially generated, meticulously designed to emulate realistic retail patterns for demonstration.
+-   **Demo Scope & Model Simplifications**: While powerful for demonstration, a full production implementation typically integrates more sophisticated features like:
     -   Multi-product optimization with cross-correlations and dependencies.
     -   Advanced supplier lead time variability modeling.
     -   Comprehensive cost trade-off optimization (holding, ordering, and stockout costs).
     -   Deep learning models (e.g., LSTM, Transformer) for more complex pattern recognition.
     -   Real-time demand sensing, anomaly detection, and adaptive model adjustments.
-    -   Robust MLOps pipeline for continuous model retraining and deployment.
+    -   Robust MLOps pipelines for continuous model retraining and deployment.
 
 ### **Business Context**
--   **Consulting Demonstration**: This project serves as a comprehensive demonstration of HerixAI's capabilities in advanced retail analytics solutions.
--   **Production Implementations**: A full-scale consulting engagement with HerixAI typically entails:
+-   **Consulting Demonstration**: This project serves as a comprehensive demonstration of HerixAI's capabilities in advanced retail analytics.
+-   **Production Implementations**: A full-scale consulting engagement with HerixAI typically involves:
     -   Custom model development tailored to specific business needs and data characteristics.
     -   Seamless integration with existing ERP/WMS systems and data infrastructure.
     -   Comprehensive change management and user training programs.
